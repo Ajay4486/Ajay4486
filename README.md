@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ajshitkar282@gmail.com**
 
-- ⚡ Fun fact **I like Coding😂😁**
+- ⚡ Fun fact **Am Master in Procastinaton**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
