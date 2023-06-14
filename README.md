@@ -3,10 +3,6 @@
 <h1 align="center">Hi 👋, I'm Ajay Shitkar</h1>
 <h3 align="center">Web Development & Machine Learning Enthusiast || Explorer || Learner || CS VCET'24</h3>
 
-<img align="right" alt="coding" width="400px" src ="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay4486&label=Profile%20views&color=0e75b6&style=flat" alt="ajay4486" /> </p>
-
 - 🌱 I’m currently learning **Full-Stack Development , Machine Learning**
 
 - 📫 How to reach me **ajshitkar282@gmail.com**
@@ -36,3 +32,8 @@
 
 ### ✍️ Random Dev Quote
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+---
+[![](https://visitcount.itsvg.in/api?id=PranitPatil03&icon=4&color=9)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
