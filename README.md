@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ajay Shitkar</h1>
-<h3 align="center">Web Development & Machine Learning Enthusiast || Explorer || Learner || CSE VCET '24</h3>
+<h3 align="center">Web Development & Machine Learning Enthusiast || Explorer || Learner || CS VCET'24</h3>
 
 <img align="right" alt="coding" width="400px" src ="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
