@@ -1,4 +1,4 @@
-
+![Mastercard](https://github.com/Ajay4486/Ajay4486/blob/main/img.png)
 
 <h1 align="center">Hi 👋, I'm Ajay Shitkar</h1>
 <h3 align="center">Web Development & Machine Learning Enthusiast || Explorer || Learner || CS VCET'24</h3>
