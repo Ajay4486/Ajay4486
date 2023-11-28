@@ -3,10 +3,10 @@
 <h1 align="center">Hi 👋, I'm Ajay Shitkar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay4486&label=Profile%20views&color=0e75b6&style=flat" alt="ajay4486" /> </p>
 
-<p>👋 Hello Everyone!
-I'm a Final year Computer Engineering student at Mumbai University with a passion for crafting innovative solutions through software development. My expertise lies in both frontend and backend development, with a strong foundation in programming languages C++ and Java. Proficient in version control using Git, I have successfully delivered several projects in the realms
-of Web Development and Machine Learning.
-I thrive in dynamic environments, leveraging my skills to create seamless and efficient software solutions. As I approach the completion of my degree, I am eager to contribute my expertise
+<h2>👋 Hello Everyone!<h2>
+<p>I'm a Final year Computer Engineering student at Mumbai University with a passion for crafting innovative solutions through software development. My expertise lies in both frontend and backend development, with a strong foundation in programming languages C++ and Java. Proficient in version control using Git, I have successfully delivered several projects in the realms
+of Web Development and Machine Learning.</p>
+<p>I thrive in dynamic environments, leveraging my skills to create seamless and efficient software solutions. As I approach the completion of my degree, I am eager to contribute my expertise
 to real-world challenges and collaborate with like-minded professionals</p>
 
 - 🌱 I’m currently learning **Full-Stack Web Development , Machine Learning**
@@ -15,7 +15,7 @@ to real-world challenges and collaborate with like-minded professionals</p>
   
 - 📫 How to reach me **ajshitkar282@gmail.com**
 
-- 📄 [Know about my experiences: (Resume)](https://drive.google.com/file/d/1A-TNNQ7uA3s00gbgr1a1IuO8HrJNBVg0/view?usp=sharing)
+- 📄 Know about my experiences: [(Resume)](https://drive.google.com/file/d/1A-TNNQ7uA3s00gbgr1a1IuO8HrJNBVg0/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
