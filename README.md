@@ -1,21 +1,26 @@
 ![Mastercard](https://github.com/Ajay4486/Ajay4486/blob/main/img2.png)
 
 <h1 align="center">Hi 👋, I'm Ajay Shitkar</h1>
-<h3 align="center">Web Development & Machine Learning Enthusiast || Explorer || Learner || CS VCET'24</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay4486&label=Profile%20views&color=0e75b6&style=flat" alt="ajay4486" /> </p>
+
+<p>👋 Hello Everyone!
+I'm a Final year Computer Engineering student at Mumbai University with a passion for crafting innovative solutions through software development. My expertise lies in both frontend and backend development, with a strong foundation in programming languages C++ and Java. Proficient in version control using Git, I have successfully delivered several projects in the realms
+of Web Development and Machine Learning.
+I thrive in dynamic environments, leveraging my skills to create seamless and efficient software solutions. As I approach the completion of my degree, I am eager to contribute my expertise
+to real-world challenges and collaborate with like-minded professionals</p>
 
 - 🌱 I’m currently learning **Full-Stack Web Development , Machine Learning**
 
+- Looking for an internship in Full-Stack Web Development/Machine Learning.
+  
 - 📫 How to reach me **ajshitkar282@gmail.com**
 
-- ⚡ Fun fact **Am Master in Procastinaton😂**
+- 📄 [Know about my experiences: (Resume)](https://drive.google.com/file/d/1A-TNNQ7uA3s00gbgr1a1IuO8HrJNBVg0/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ajay_shitkar44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajay_shitkar44" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ajay-shitkar-699784225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ajay-shitkar-699784225/" height="30" width="40" /></a>
-<a href="https://instagram.com/ajay___shitkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajay___shitkar" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/ajshitkar282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/ajshitkar282" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/shitkarajay/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shitkarajay/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ajshitkfrfj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ajshitkfrfj" height="30" width="40" /></a>
@@ -36,6 +41,4 @@
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
-<!---[![](https://visitcount.itsvg.in/api?id=PranitPatil03&icon=4&color=9)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
