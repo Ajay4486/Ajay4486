@@ -9,8 +9,6 @@ of Web Development and Machine Learning.</p>
 <p>I thrive in dynamic environments, leveraging my skills to create seamless and efficient software solutions. As I approach the completion of my degree, I am eager to contribute my expertise
 to real-world challenges and collaborate with like-minded professionals.</p>
 
-- 🌱 I’m currently learning **Full-Stack Web Development , Machine Learning**
-
 - Looking for an internship in Full-Stack Web Development/Machine Learning.
   
 - 📫 How to reach me **ajshitkar282@gmail.com**
