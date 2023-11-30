@@ -31,9 +31,6 @@ to real-world challenges and collaborate with like-minded professionals.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ajay4486&theme=great-gatsby&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay4486&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# Github Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ajay4486&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ### ✍️ Random Dev Quote
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
