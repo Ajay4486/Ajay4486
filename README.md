@@ -2,15 +2,13 @@
 
 <h1 align="center">Hi 👋, I'm Ajay Shitkar</h1>
 
-<p align="center"> 
-<a href="https://visitorbadge.io/status?path=Ajay4486%2FAjay4486"><img src="https://api.visitorbadge.io/api/combined?path=Ajay4486%2FAjay4486&countColor=%23ba68c8&style=flat-square&labelStyle=upper" /></a>
-</p>
-
 <h2>👋 Hello Everyone!<h2>
+<p align="center">
 I'm a Final year Computer Engineering student at Mumbai University with a passion for crafting innovative solutions through software development. My expertise lies in both frontend and backend development, with a strong foundation in programming languages C++ and Java. Proficient in version control using Git, I have successfully delivered several projects in the realms
 of Web Development and Machine Learning.
 I thrive in dynamic environments, leveraging my skills to create seamless and efficient software solutions. As I approach the completion of my degree, I am eager to contribute my expertise
 to real-world challenges and collaborate with like-minded professionals.
+</p>
 
 - Looking for an internship in Full-Stack Web Development/Machine Learning.
   
