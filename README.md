@@ -3,8 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ajay Shitkar</h1>
 
 <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/SanskarGubreley/count.svg" />
+<a href="https://visitorbadge.io/status?path=Ajay4486%2FAjay4486"><img src="https://api.visitorbadge.io/api/visitors?path=Ajay4486%2FAjay4486&labelColor=%23697689&countColor=%23ff8a65" /></a>
 </p>
 
 <h2>👋 Hello Everyone!<h2>
