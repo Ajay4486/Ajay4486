@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ajay Shitkar</h1>
 
 <h2>👋 Hello Everyone!<h2>
-<p align="center">
+<p align="justify">
 I'm a Final year Computer Engineering student at Mumbai University with a passion for crafting innovative solutions through software development. My expertise lies in both frontend and backend development, with a strong foundation in programming languages C++ and Java. Proficient in version control using Git, I have successfully delivered several projects in the realms
 of Web Development and Machine Learning.
 I thrive in dynamic environments, leveraging my skills to create seamless and efficient software solutions. As I approach the completion of my degree, I am eager to contribute my expertise
