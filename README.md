@@ -1,7 +1,11 @@
 ![Mastercard](https://github.com/Ajay4486/Ajay4486/blob/main/img2.png)
 
 <h1 align="center">Hi 👋, I'm Ajay Shitkar</h1>
- [![HitCount](https://hits.dwyl.com/Ajay4486/Ajay4486.svg?style=flat-square&show=unique)](http://hits.dwyl.com/Ajay4486/Ajay4486)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/SanskarGubreley/count.svg" />
+</p>
 
 <h2>👋 Hello Everyone!<h2>
 I'm a Final year Computer Engineering student at Mumbai University with a passion for crafting innovative solutions through software development. My expertise lies in both frontend and backend development, with a strong foundation in programming languages C++ and Java. Proficient in version control using Git, I have successfully delivered several projects in the realms
