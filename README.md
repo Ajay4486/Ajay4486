@@ -14,7 +14,7 @@ to real-world challenges and collaborate with like-minded professionals.
   
 - 📫 How to reach me **ajshitkar282@gmail.com**
 
-- 📄 Know about my experiences: [(Resume)](https://drive.google.com/file/d/1A-TNNQ7uA3s00gbgr1a1IuO8HrJNBVg0/view?usp=sharing)
+- 📄 Know about my experiences: [(Resume)](https://drive.google.com/file/d/1DMSUeSWknuKXaXwoo_Nm5V44EPLa11vA/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
