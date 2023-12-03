@@ -29,7 +29,7 @@ to real-world challenges and collaborate with like-minded professionals.
 
 
 <!--- stats & Trophy (start) -->
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <p align="center">
   <!--- stats (start) -->
 <table align="center">
