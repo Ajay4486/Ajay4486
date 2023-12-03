@@ -10,7 +10,7 @@ I thrive in dynamic environments, leveraging my skills to create seamless and ef
 to real-world challenges and collaborate with like-minded professionals.
 </p>
 
-- Looking for an internship in Full-Stack Web Development/Machine Learning.
+- I’m currently working at CodeClause as a Web developer Intern
   
 - 📫 How to reach me **ajshitkar282@gmail.com**
 
