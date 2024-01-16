@@ -10,11 +10,11 @@ I thrive in dynamic environments, leveraging my skills to create seamless and ef
 to real-world challenges and collaborate with like-minded professionals.
 </p>
 
-- I’m currently working at CodeClause as a Web developer Intern
+- I’m currently attending hackathons to gain knowledge and networking.
   
 - 📫 How to reach me **ajshitkar282@gmail.com**
 
-- 📄 Know about my experiences: [(Resume)](https://drive.google.com/file/d/1DMSUeSWknuKXaXwoo_Nm5V44EPLa11vA/view?usp=sharing)
+- 📄 Know about my experiences: [(Resume)](https://drive.google.com/file/d/1U0v-vMMQdntED6Xs5QNlm5iHNrMQ7RfJ/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
