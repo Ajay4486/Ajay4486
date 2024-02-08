@@ -3,23 +3,23 @@
 <h1 align="center">Hi 👋, I'm Ajay Shitkar</h1>
 
 <h2>👋 Hello Everyone!<h2>
-<p align="left">
+<p align="left" style="font-size: 14px;">
 I'm a Final year Computer Engineering student at Mumbai University with a passion for crafting innovative solutions through software development. My expertise lies in both frontend and backend development, with a strong foundation in programming languages C++ and Java. Proficient in version control using Git, I have successfully delivered several projects in the realms
 of Web Development and Machine Learning.
 I thrive in dynamic environments, leveraging my skills to create seamless and efficient software solutions. As I approach the completion of my degree, I am eager to contribute my expertise
 to real-world challenges and collaborate with like-minded professionals.
 </p>
-
-- I’m currently attending hackathons to gain knowledge and networking.
   
-- 📫 How to reach me **ajshitkar282@gmail.com**
+- 📫 <span style="font-size: 14px;">How to reach me **ajshitkar282@gmail.com**</span>
 
-- 📄 Know about my experiences: [(Resume)](https://drive.google.com/file/d/1U0v-vMMQdntED6Xs5QNlm5iHNrMQ7RfJ/view?usp=drive_link)
+- 📄 <span style="font-size: 14px;">Know about my experiences: [(Resume)](https://drive.google.com/file/d/1U0v-vMMQdntED6Xs5QNlm5iHNrMQ7RfJ/view?usp=drive_link)</span>
+
+- <span style="font-size: 14px;">I’m currently attending hackathons to gain knowledge and networking.</span>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ajay-shitkar-699784225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ajay-shitkar-699784225/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/ajshitkar282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/ajshitkar282" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/shitkarajay/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shitkarajay/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ajshitkfrfj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ajshitkfrfj" height="30" width="40" /></a>
 </p>
