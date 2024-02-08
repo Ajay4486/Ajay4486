@@ -3,18 +3,18 @@
 <h1 align="center">Hi 👋, I'm Ajay Shitkar</h1>
 
 <h2>👋 Hello Everyone!<h2>
-<p align="left" style="font-size: 10px; text-align: justify;">
+<p align="left" style="font-size: 8px; text-align: justify;">
 I'm a Final year Computer Engineering student at Mumbai University with a passion for crafting innovative solutions through software development. My expertise lies in both frontend and backend development, with a strong foundation in programming languages C++ and Java. Proficient in version control using Git, I have successfully delivered several projects in the realms
 of Web Development and Machine Learning.
 I thrive in dynamic environments, leveraging my skills to create seamless and efficient software solutions. As I approach the completion of my degree, I am eager to contribute my expertise
 to real-world challenges and collaborate with like-minded professionals.
 </p>
   
-- 📫 <span style="font-size: 10px;">How to reach me **ajayshitkar22@gmail.com**</span>
+- 📫 <span style="font-size: 8px;">How to reach me **ajayshitkar22@gmail.com**</span>
 
-- 📄 <span style="font-size: 10px;">Know about my experiences: [(Resume)](https://drive.google.com/file/d/1U0v-vMMQdntED6Xs5QNlm5iHNrMQ7RfJ/view?usp=drive_link)</span>
+- 📄 <span style="font-size: 8px;">Know about my experiences: [(Resume)](https://drive.google.com/file/d/1U0v-vMMQdntED6Xs5QNlm5iHNrMQ7RfJ/view?usp=drive_link)</span>
 
-- <span style="font-size: 10px;">I’m currently attending hackathons to gain knowledge and networking.</span>
+- <span style="font-size: 8px;">I’m currently attending hackathons to gain knowledge and networking.</span>
 
 
 <h3 align="left">Connect with me:</h3>
