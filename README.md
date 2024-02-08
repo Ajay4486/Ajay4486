@@ -14,7 +14,7 @@ to real-world challenges and collaborate with like-minded professionals.
 
 - 📄 <span style="font-size: 8px;">Know about my experiences: [(Resume)](https://drive.google.com/file/d/1U0v-vMMQdntED6Xs5QNlm5iHNrMQ7RfJ/view?usp=drive_link)</span>
 
-- <span style="font-size: 8px;">I’m currently attending hackathons to gain knowledge and networking.</span>
+- <span style="font-size: 8px;">Currently, I am immersing myself in hackathons to acquire knowledge and expand my network.</span>
 
 
 <h3 align="left">Connect with me:</h3>
