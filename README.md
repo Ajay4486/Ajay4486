@@ -16,6 +16,8 @@ to real-world challenges and collaborate with like-minded professionals.
 
 - <span style="font-size: 8px;">Currently, I am immersing myself in hackathons to acquire knowledge and expand my network.</span>
 
+- <span style="font-size: 8px;">Looking for software development role .</span>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
