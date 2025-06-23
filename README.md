@@ -4,10 +4,7 @@
 
 <h2>👋 Hello Everyone!<h2>
 <p align="left" style="font-size: 8px; text-align: justify;">
-I'm a Final year Computer Engineering student at Mumbai University with a passion for crafting innovative solutions through software development. My expertise lies in both frontend and backend development, with a strong foundation in programming languages C++ and Java. Proficient in version control using Git, I have successfully delivered several projects in the realms
-of Web Development and Machine Learning.
-I thrive in dynamic environments, leveraging my skills to create seamless and efficient software solutions. As I approach the completion of my degree, I am eager to contribute my expertise
-to real-world challenges and collaborate with like-minded professionals.
+I'm an Associate Software Engineer at Tech Mahindra with a strong foundation in Java, Spring Boot, C++, and Microservices. I enjoy building scalable web applications, exploring machine learning, and collaborating on impactful tech projects.
 </p>
   
 - 📫 <span style="font-size: 8px;">How to reach me **ajayshitkar22@gmail.com**</span>
